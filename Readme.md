@@ -1,3 +1,3 @@
 # My Portfolio
 
-This is my portfolio site which i am making as a prerequirest for tanay prataps development course
+This is my portfolio site which I am making as a prerequirest for Tanay Pratap's development course.
